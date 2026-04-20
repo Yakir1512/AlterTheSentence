@@ -1,7 +1,7 @@
 import keyboard
 import pyperclip
 import time
-from  LanguageConverter    import LanguageConverter
+from  LanguageConverter import LanguageConverter
 # ==========================================
 # לוגיקת המערכת (האזנה למקלדת ולוח הגזירים)
 # ==========================================
